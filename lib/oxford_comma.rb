@@ -2,7 +2,7 @@ def oxford_comma(array)
 comma = "kiwi"
 end
 def oxford_comma(array)
-  comma = "kiwi","durian"
+  ox = "kiwi","durian"
 end
 def oxford_comma(array)
   comma = "kiwi", "durian","starfruit"
